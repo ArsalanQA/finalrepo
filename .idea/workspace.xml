@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6175784-ce30-4266-90fe-99c09caa0ef8" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>buddies count on 1 page:</find>
+      <find>ordersItems</find>
+      <find>getOnlyIntiger</find>
+    </findStrings>
+  </component>
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="Sprint40" />
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectId" id="1l5fPX7YAvAshMOPHshAGfIK8Us" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/0919253dc6b244ae2402faf771876d79-d1fc1fbcf63f1385b1354b4a4856b7149e7bf088" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\VenD\munchies\munchies-qa-automation\src\test\java\jannab" />
+      <recent name="C:\Users\VenD\munchies\munchies-qa-automation\src\test\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\VenD\munchies\munchies-qa-automation\src\test\resources" />
+      <recent name="C:\Users\VenD\Downloads\MunchiesHome" />
+      <recent name="C:\Users\VenD\Downloads\MunchiesHome\src" />
+      <recent name="C:\Users\VenD\Downloads\MunchiesHome\src\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.signInTest">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Googlesignin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="munchies-qa-automation2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="signInTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="signInTest" />
+      <option name="MAIN_CLASS_NAME" value="signInTest.Googlesignin" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignInTestClass" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="munchies-qa-automation2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="signInTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="signInTest" />
+      <option name="MAIN_CLASS_NAME" value="signInTest.SignInTestClass" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/home/vend-arsalan/Data/Munchies/Munchies/munchies-qa-automation2/TestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MunchiesHome" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="addtocartitem" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="munchies-qa-automation2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="signInTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="signInTest" />
+      <option name="MAIN_CLASS_NAME" value="signInTest.addtocartitem" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="signInTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="munchies-qa-automation2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="signInTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="signInTest" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG./home/vend-arsalan/Data/Munchies/Munchies/munchies-qa-automation2/TestNG.xml" />
+      <item itemvalue="TestNG.SignInTestClass" />
+      <item itemvalue="TestNG.Googlesignin" />
+      <item itemvalue="TestNG.addtocartitem" />
+      <item itemvalue="TestNG.signInTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.signInTest" />
+        <item itemvalue="TestNG.SignInTestClass" />
+        <item itemvalue="TestNG.Googlesignin" />
+        <item itemvalue="TestNG.addtocartitem" />
+        <item itemvalue="TestNG./home/vend-arsalan/Data/Munchies/Munchies/munchies-qa-automation2/TestNG.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6175784-ce30-4266-90fe-99c09caa0ef8" name="Default" comment="" />
+      <created>1585049309554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585049309554</updated>
+      <workItem from="1585049313074" duration="63761000" />
+      <workItem from="1585290253697" duration="9112000" />
+      <workItem from="1585403347691" duration="3735000" />
+      <workItem from="1585498481131" duration="2331000" />
+      <workItem from="1585652944587" duration="42308000" />
+      <workItem from="1585829483796" duration="7881000" />
+      <workItem from="1585837779976" duration="111002000" />
+      <workItem from="1586429687654" duration="259957000" />
+      <workItem from="1587539584998" duration="573000" />
+      <workItem from="1587540361535" duration="135000" />
+      <workItem from="1587542804845" duration="218262000" />
+      <workItem from="1588851302611" duration="96990000" />
+      <workItem from="1589541459184" duration="24930000" />
+      <workItem from="1589871601705" duration="80710000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="921687000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/munchies_qa_automation2$_home_vend_arsalan_Data_Munchies_Munchies_munchies_qa_automation2_TestNG_xml.ic" NAME="$PROJECT_DIR$/TestNG.xml Coverage Results" MODIFIED="1606891953109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
